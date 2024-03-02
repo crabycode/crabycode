@@ -2,9 +2,13 @@ I'm Craby! I am currently studying Cybersecuirty in Technical University of Sofi
 
 ## About me
 I enjoy coding(Python, C#, HTML, CSS, JavaScript, C(learning now)) 💻
+
 I am in a happy relationship and enjoy spending time with my girlfriend 🫀
+
 I am keen on games such as World of Warcraft and God of War 🎮
+
 I enjoy going to the gym and pushing my limits 💪
+
 I love to travel outside my country 🇧🇬
 
 ## #30NitesOfCode:
