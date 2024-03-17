@@ -12,10 +12,10 @@
 😄 Pronouns: He/Him <br>
 🫀 In a happy relationship <br>
 💪 Gymrat <br>
-✈️ Enjoy travelling <br>
+✈️ Enjoys travelling <br>
 🐶 Love dogs <br>
 ⚡ Fun fact: I'm a huge fan of World of Warcraft! <br>
-📫 How to reach me: yorgovkaloyan702@gmail.com <br>
+📫 How to reach me: [yorgovkaloyan702@gmail.com](yorgovkaloyan702@gmail.com) <br>
 <br clear="left"/>
 👁️Profile Views👁️
 <br> [![Image of https://github.com/crabycode/viewscounter](https://github.com/crabycode/viewscounter/blob/master/svg/profile/badge.svg)](https://github.com/crabycode/viewscounter) 
