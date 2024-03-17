@@ -23,6 +23,7 @@
 <h2> Social Media: </h2>
 
 <h2> My favourite projects! 😊</h2>
+
 <h2> #30NitesOfCode: </h2>
   [Check out my progress!](https://www.codedex.io/@kyorgov/30-nites-of-code)  
   ![@kyorgov #30NitesOfCode](https://www.codedex.io/api/petStatus?user=kyorgov)
