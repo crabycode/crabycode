@@ -4,7 +4,7 @@
 <br>
 <h2> Who is Kaloyan Yorgov? </h2>
 
-<img align="right" src="https://avatars.githubusercontent.com/u/155481840?v=4" height = "500">
+<img align="right" src="https://avatars.githubusercontent.com/u/155481840?v=4" height = "520">
 
 🌎 From Pleven, Bulgaria <br> <br>
 🎓 Technical University of Sofia, Bulgaria <br> <br>
