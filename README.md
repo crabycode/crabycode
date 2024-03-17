@@ -20,7 +20,9 @@
 <br clear="left"/>
 <br> [![Image of https://github.com/crabycode/viewscounter](https://github.com/crabycode/viewscounter/blob/master/svg/profile/badge.svg)](https://github.com/crabycode/viewscounter) 
 
-<h2> </h2>
+<h2> Social Media: </h2>
+
+<h2> My favourite projects! 😊</h2>
 <h2> #30NitesOfCode: </h2>
   [Check out my progress!](https://www.codedex.io/@kyorgov/30-nites-of-code)  
   ![@kyorgov #30NitesOfCode](https://www.codedex.io/api/petStatus?user=kyorgov)
