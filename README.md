@@ -15,7 +15,7 @@
 ✈️ Enjoys travelling <br> <br>
 🐶 Love dogs <br> <br>
 ⚡ World of Warcraft retail enjoyer! <br> <br>
-📫 How to reach me: <i>[yorgovkaloyan702@gmail.com](mailto:yorgovkaloyan702@gmail.com)</i>
+📫 Contact me: <i>[yorgovkaloyan702@gmail.com](mailto:yorgovkaloyan702@gmail.com)</i>
 <br clear="left"/>
 <br> [![Image of https://github.com/crabycode/viewscounter](https://github.com/crabycode/viewscounter/blob/master/svg/profile/badge.svg)](https://github.com/crabycode/viewscounter) 
 
