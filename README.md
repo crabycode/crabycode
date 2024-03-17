@@ -13,10 +13,13 @@
     - 🐶 Love dogs <br>
     - ⚡ Fun fact: I'm a huge fan of World of Warcraft! <br>
     - 📫 How to reach me: [yorgovkaloyan702@gmail.com](yorgovkaloyan702@gmail.com) <br>
-    - 👁️Profile Views👁️
+  </td>
+  <td>
+    <img src = "https://avatars.githubusercontent.com/u/155481840?v=4">
   </td>
 </table>
 
+👁️Profile Views👁️
 <br> [![Image of https://github.com/crabycode/viewscounter](https://github.com/crabycode/viewscounter/blob/master/svg/profile/badge.svg)](https://github.com/crabycode/viewscounter) 
 
 ## #30NitesOfCode:
