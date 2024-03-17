@@ -14,7 +14,7 @@
 💪 Gymrat <br> <br>
 ✈️ Enjoys travelling <br> <br>
 🐶 Love dogs <br> <br>
-⚡ Fun fact: I'm a huge fan of World of Warcraft! <br> <br>
+⚡ World of Warcraft retail enjoyer! <br> <br>
 📫 How to reach me: [yorgovkaloyan702@gmail.com](mailto:yorgovkaloyan702@gmail.com)
 <br clear="left"/>
 <br> [![Image of https://github.com/crabycode/viewscounter](https://github.com/crabycode/viewscounter/blob/master/svg/profile/badge.svg)](https://github.com/crabycode/viewscounter) 
