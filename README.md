@@ -1,6 +1,6 @@
 ![Banner](banner.png)
 <br>
-<h1 align="center"><i>Hi 👋, I'm Kaloyan Yorgov 🧑‍🚀</i></h2>
+<h1 align="center"><i>Greetings!</i>🙋‍♂️</h2>
 <br>
 <h2> Who is Kaloyan Yorgov? </h2>
 
