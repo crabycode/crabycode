@@ -2,7 +2,8 @@
 <br>
 <h1 align="center"><i>Greetings! Kaloyan here</i>🙋‍♂️</h2>
 <br>
-## #Who is Kaloyan Yorgov?
+
+<h2 >## Who is Kaloyan Yorgov?</h2>
 
 <img align="right" src="https://avatars.githubusercontent.com/u/155481840?v=4" height = "500">
 
