@@ -3,8 +3,7 @@
 ## About me
 - 🌎 From Pleven, Bulgaria
 - 🎓 Currently studying Cybersecurity at Technical University of Sofia, Bulgaria
- - 🌱 Learning more about programming and cybersecurity every day
- - 💼 Looking for part time job
+- 💼 Looking for part time job
 - 😄 Pronouns: He/Him
 - 🫀 In a happy relationship
 - 💪 Gymrat
