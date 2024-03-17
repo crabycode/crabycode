@@ -1,6 +1,6 @@
 ![Banner](banner.png)
 
-## About me
+## Who am I?
 - 🌎 From Pleven, Bulgaria
 - 🎓 Currently studying Cybersecurity at Technical University of Sofia, Bulgaria
 - 💼 Looking for a part time job
