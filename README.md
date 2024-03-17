@@ -2,7 +2,7 @@
 
 ## Who is Kaloyan Yorgov?
 
-<img align="right" src="https://avatars.githubusercontent.com/u/155481840?v=4" height = "420">
+<img align="right" src="https://avatars.githubusercontent.com/u/155481840?v=4" height = "450">
 
 🌎 From Pleven, Bulgaria <br> <br>
 🎓 Studying Cybersecurity at Technical University of Sofia, Bulgaria <br> <br>
