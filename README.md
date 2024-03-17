@@ -1,4 +1,4 @@
-Hi, I am Craby! I am currently studying Cybersecuirty in Technical University of Sofia, Bulgaria!
+
 
 ## About me
 I enjoy coding(Python, C#, HTML, CSS, JavaScript, C(learning now)) 💻
