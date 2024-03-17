@@ -1,25 +1,22 @@
 ![Banner](banner.png)
 
 ## Who is Kaloyan Yorgov?
+
 <table>
   <tr>
     <td>
-     🌎 From Pleven, Bulgaria <br>
-     🎓 Studying Cybersecurity at Technical University of Sofia, Bulgaria <br>
-     💼 Looking for a part time job <br>
-     😄 Pronouns: He/Him <br>
-     🫀 In a happy relationship <br>
-     💪 Gymrat <br>
-     ✈️ Enjoy travelling <br>
-     🐶 Love dogs <br>
-     ⚡ Fun fact: I'm a huge fan of World of Warcraft! <br>
-     📫 How to reach me: 
-    
-  [yorgovkaloyan702@gmail.com](yorgovkaloyan702@gmail.com) <br>
+      🌎 From Pleven, Bulgaria <br>
+      🎓 Studying Cybersecurity at Technical University of Sofia, Bulgaria <br>
+      💼 Looking for a part time job <br>
+      😄 Pronouns: He/Him <br>
+      🫀 In a happy relationship <br>
+      💪 Gymrat <br>
+      ✈️ Enjoy travelling <br>
+      🐶 Love dogs <br>
+      ⚡ Fun fact: I'm a huge fan of World of Warcraft! <br>
+      📫 How to reach me: yorgovkaloyan702@gmail.com <br>
     </td>
-    <td>
-      <img src = "https://avatars.githubusercontent.com/u/155481840?v=4">
-    </td>
+    <td><img src="https://avatars.githubusercontent.com/u/155481840?v=4" alt="Kaloyan Yorgov"></td>
   </tr>
 </table>
 
