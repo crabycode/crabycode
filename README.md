@@ -7,7 +7,7 @@
 <img align="right" src="https://avatars.githubusercontent.com/u/155481840?v=4" height = "480">
 
 🌎 From Pleven, Bulgaria <br> <br>
-🎓 Studying Cybersecurity at Technical University of Sofia, Bulgaria <br> <br>
+🎓 Technical University of Sofia, Bulgaria <br> <br>
 💼 Looking for a part time job <br> <br>
 😄 Pronouns: He/Him <br> <br>
 🫀 In a happy relationship <br> <br>
