@@ -1,5 +1,9 @@
 ![Banner](banner.png)
 
+<p align="center">
+  Hi 👋, I'm Kaloyan Yorgov 🧑‍🚀
+</p>
+
 ## Who is Kaloyan Yorgov?
 
 <img align="right" src="https://avatars.githubusercontent.com/u/155481840?v=4" height = "480">
