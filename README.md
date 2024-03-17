@@ -1,15 +1,17 @@
 ![Banner](banner.png)
 
 ## About me
-I enjoy coding(Python, C#, HTML, CSS, JavaScript, C(learning now)) 💻
-
-I am in a happy relationship and enjoy spending time with my girlfriend 🫀
-
-I am keen on games such as World of Warcraft and God of War 🎮
-
-I enjoy going to the gym and pushing my limits 💪
-
-I love to travel outside my country 🇧🇬
+- 🌎 From Pleven, Bulgaria
+- 🎓 Currently studying Cybersecurity at Technical University of Sofia, Bulgaria
+ - 🌱 Learning more about programming and cybersecurity every day
+ - 💼 Looking for part time job
+- 😄 Pronouns: He/Him
+- 🫀 In a happy relationship
+- 💪 Gymrat
+- ✈️ Enjoy travelling
+- 🐶 Love dogs
+- ⚡ Fun fact: I'm a huge fan of World of Warcraft!
+- 📫 How to reach me: [yorgovkaloyan702@gmail.com](yorgovkaloyan702@gmail.com)
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@kyorgov/30-nites-of-code)  
