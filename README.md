@@ -17,7 +17,7 @@
 ⚡ Fun fact: I'm a huge fan of World of Warcraft! <br> <br>
 📫 How to reach me: [yorgovkaloyan702@gmail.com](mailto:yorgovkaloyan702@gmail.com)
 <br clear="left"/>
-👁️Profile Views👁️
+<br> 👁️Profile Views👁️
 <br> [![Image of https://github.com/crabycode/viewscounter](https://github.com/crabycode/viewscounter/blob/master/svg/profile/badge.svg)](https://github.com/crabycode/viewscounter) 
 
 ## #30NitesOfCode:
