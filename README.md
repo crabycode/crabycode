@@ -1,4 +1,4 @@
-![Banner](Black Minimalist Profile LinkedIn Banner.png)
+![Banner](banner.png)
 
 ## About me
 I enjoy coding(Python, C#, HTML, CSS, JavaScript, C(learning now)) 💻
