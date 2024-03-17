@@ -17,10 +17,10 @@
     
   [yorgovkaloyan702@gmail.com](yorgovkaloyan702@gmail.com) <br>
   </td>
-  </tr>
   <td>
     <img src = "https://avatars.githubusercontent.com/u/155481840?v=4">
   </td>
+  </tr>
 </table>
 
 👁️Profile Views👁️
