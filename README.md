@@ -2,7 +2,7 @@
 
 ## Who is Kaloyan Yorgov?
 <table border="0" style="border:none; margin:0; padding:0;">
-  <tr>
+  <tr style="border:none; margin:0; padding:0;">
   <td style="border:none; margin:0; padding:0;">
     - 🌎 From Pleven, Bulgaria <br>
     - 🎓 Studying Cybersecurity at Technical University of Sofia, Bulgaria <br>
@@ -17,7 +17,7 @@
     
   [yorgovkaloyan702@gmail.com](yorgovkaloyan702@gmail.com) <br>
   </td>
-  <td>
+  <td style="border:none; margin:0; padding:0;">
     <img src = "https://avatars.githubusercontent.com/u/155481840?v=4">
   </td>
   </tr>
