@@ -1,9 +1,9 @@
 ![Banner](banner.png)
 
 ## Who is Kaloyan Yorgov?
-<table border="0" style="border:none; margin:0; padding:0;">
-  <tr style="border:none; margin:0; padding:0;">
-  <td style="border:none; margin:0; padding:0;">
+<table>
+  <tr>
+    <td>
     - 🌎 From Pleven, Bulgaria <br>
     - 🎓 Studying Cybersecurity at Technical University of Sofia, Bulgaria <br>
     - 💼 Looking for a part time job <br>
@@ -16,12 +16,13 @@
     - 📫 How to reach me: 
     
   [yorgovkaloyan702@gmail.com](yorgovkaloyan702@gmail.com) <br>
-  </td>
-  <td style="border:none; margin:0; padding:0;">
-    <img src = "https://avatars.githubusercontent.com/u/155481840?v=4">
-  </td>
+    </td>
+    <td>
+      <img src = "https://avatars.githubusercontent.com/u/155481840?v=4">
+    </td>
   </tr>
 </table>
+
 
 👁️Profile Views👁️
 <br> [![Image of https://github.com/crabycode/viewscounter](https://github.com/crabycode/viewscounter/blob/master/svg/profile/badge.svg)](https://github.com/crabycode/viewscounter) 
