@@ -17,7 +17,7 @@
 <br clear="left"/>
 👁️Profile Views👁️
 <br> [![Image of https://github.com/crabycode/viewscounter](https://github.com/crabycode/viewscounter/blob/master/svg/profile/badge.svg)](https://github.com/crabycode/viewscounter) 
-<br> <br> <br> <br> <br>
+
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@kyorgov/30-nites-of-code)  
   ![@kyorgov #30NitesOfCode](https://www.codedex.io/api/petStatus?user=kyorgov)
