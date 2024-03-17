@@ -2,7 +2,7 @@
 
 ## Who is Kaloyan Yorgov?
 <table border="0" style="border:none; margin:0; padding:0;">
-  <td>
+  <td style="border:none; margin:0; padding:0;">
     - 🌎 From Pleven, Bulgaria <br>
     - 🎓 Studying Cybersecurity at Technical University of Sofia, Bulgaria <br>
     - 💼 Looking for a part time job <br>
