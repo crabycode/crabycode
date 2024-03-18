@@ -55,6 +55,12 @@
   [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,unity)](https://skillicons.dev) <br>
   [![My Skills](https://skillicons.dev/icons?i=github,powershell,sublime)](https://skillicons.dev)
 </details>
+<details>
+  <summary>💻Programming languages</summary>
+  
+  [![My Skills](https://skillicons.dev/icons?i=py,c,cs)](https://skillicons.dev) <br>
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+</details>
 <h2> My favourite projects! 😊</h2>
 
 <h2> #30NitesOfCode: </h2>
