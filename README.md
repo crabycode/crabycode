@@ -26,7 +26,7 @@
   <img src="https://github.com/crabycode/crabycode/blob/main/facebook.png?raw=true" height="40" width="40">
 </a>
 <a href="https://open.spotify.com/user/z2agvrmzdq1i4b9tfg34u8uwn">
-  <img src="https://github.com/crabycode/crabycode/blob/main/spotify.png?raw=true" height="40" width="40">
+  <img src="https://github.com/crabycode/crabycode/blob/main/sptoify.png?raw=true" height="40" width="40">
 </a>
 <a href="https://www.instagram.com/justcraby/">
   <img src="https://github.com/crabycode/crabycode/blob/main/instagram.png?raw=true" height="40" width="40">
@@ -35,7 +35,7 @@
   <img src="https://github.com/crabycode/crabycode/blob/main/twitter.png?raw=true" height="40" width="40">
 </a>
 <a href="https://www.linkedin.com/in/kaloyan-yorgov-385872188/">
-  <img src="https://github.com/crabycode/crabycode/blob/main/linkedin.png?raw=true" height="40" width="40">
+  <img src="https://github.com/crabycode/crabycode/blob/main/Linkedin.png?raw=true" height="40" width="40">
 </a>
 <a href="mailto:yorgovkaloyan702@gmail.com">
   <img src="https://github.com/crabycode/crabycode/blob/main/gmail.png?raw=true" height="40" width="40">
