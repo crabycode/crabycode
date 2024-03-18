@@ -49,7 +49,7 @@
 </p>
 <br>
 <h2>👨‍💻 Tech skills 👨‍💻</h2>
-<p align = "right">
+<p align ="right">
 <details>
   <summary>⚙️Tools and Software that I use</summary>
   
