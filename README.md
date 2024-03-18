@@ -25,7 +25,7 @@
 
 <p align="center">
 <a href="https://www.facebook.com/crabyto" style="text-decoration: none; border: none">
-  <img src="https://github.com/crabycode/crabycode/blob/main/facebook.png?raw=true" height="80" width="80">
+  <img src="https://github.com/crabycode/crabycode/blob/main/facebook.png?raw=true" style="border: none;" height="80" width="80">
 </a>
 <a href="https://open.spotify.com/user/z2agvrmzdq1i4b9tfg34u8uwn" style="text-decoration: none; border: none">
   <img src="https://github.com/crabycode/crabycode/blob/main/sptoify.png?raw=true" height="80" width="80">
