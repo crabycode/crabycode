@@ -64,8 +64,9 @@
   [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 </details>
 
-<h2 align = "center">📃 Certificates 📃</h2>
 ![Kaloayn's GitHub stats](https://github-readme-stats.vercel.app/api?username=crabycode&show_icons=true&theme=transparent)
+<h2 align = "center">📃 Certificates 📃</h2>
+
 <h2 align="center"> My favourite projects! 😊</h2>
 <p align="center"> There are more to come, more advanced and useful, but as a newbie, these are the first I created and am most proud of!</p>
 <h2 align="center"> #30NitesOfCode: </h2>
