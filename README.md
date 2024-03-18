@@ -50,7 +50,7 @@
 <br>
 
 <h2 align = "center">👨‍💻 Tech skills 👨‍💻</h2>
-<img src="https://github.com/crabycode/crabycode/blob/main/craby.jpg?raw=true" align="right" width = 300 alt="Craby coding"/>
+<img src="https://github.com/crabycode/crabycode/blob/main/crabestan.png?raw=true" align="right" width = 300 alt="Craby coding"/>
 <details>
   <summary>⚙️Tools and Software that I use</summary>
   
