@@ -68,6 +68,8 @@
 <h2 align="center"> My favourite projects! 😊</h2>
 <p align="center"> There are more to come, more advanced and useful, but as a newbie, these are the first I created and am most proud of!</p>
 <h2 align="center"> #30NitesOfCode: </h2>
-
+<p align = "center"> <br>
+  
   [Check out my progress!](https://www.codedex.io/@kyorgov/30-nites-of-code)  
   ![@kyorgov #30NitesOfCode](https://www.codedex.io/api/petStatus?user=kyorgov)
+</p>
