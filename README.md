@@ -23,7 +23,7 @@
 
 <br>
 <h2 align="center">🌐 Social Media: 🌐</h2>
-
+<p align="center"> If I sound like an intriguing person and you'd like to learn more about me, consider following me on social media!</p>
 <p align="center">
 <a href="https://www.facebook.com/crabyto">
   <img src="https://github.com/crabycode/crabycode/blob/main/facebook.png?raw=true" height="100" width="100">
@@ -48,6 +48,7 @@
 </a>
 </p>
 <br>
+
 <h2 align = "center">👨‍💻 Tech skills 👨‍💻</h2>
 <img src="https://github.com/crabycode/crabycode/blob/main/craby.jpg?raw=true" align="right" width = 490 alt="Craby coding"/>
 <details>
@@ -64,8 +65,9 @@
 </details>
 
 ![Kaloayn's GitHub stats](https://github-readme-stats.vercel.app/api?username=crabycode&show_icons=true&theme=transparent)
-<h2> My favourite projects! 😊</h2>
-<h2> #30NitesOfCode: </h2>
+<h2 align="center"> My favourite projects! 😊</h2>
+<p align="center"> These are my favourite projects. There are more to come, more advanced and useful, but as a newbie, these are the first I created and am most proud of!</p>
+<h2 align="center"> #30NitesOfCode: </h2>
 
   [Check out my progress!](https://www.codedex.io/@kyorgov/30-nites-of-code)  
   ![@kyorgov #30NitesOfCode](https://www.codedex.io/api/petStatus?user=kyorgov)
