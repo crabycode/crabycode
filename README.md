@@ -61,6 +61,8 @@
   [![My Skills](https://skillicons.dev/icons?i=py,c,cs)](https://skillicons.dev) <br>
   [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 </details>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crabycode&size_weight=0.5&count_weight=0.5)
 <h2> My favourite projects! 😊</h2>
 
 ![Kaloayn's GitHub stats](https://github-readme-stats.vercel.app/api?username=crabycode&show_icons=true&theme=transparent)
