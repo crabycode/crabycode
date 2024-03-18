@@ -20,8 +20,9 @@
 <br clear="left"/>
 <br> [![Image of https://github.com/crabycode/viewscounter](https://github.com/crabycode/viewscounter/blob/master/svg/profile/badge.svg)](https://github.com/crabycode/viewscounter) 
 
-<h2> Social Media: </h2>
+<h2 align=""center"> Social Media: </h2>
 
+<p align="center">
 <a href="https://www.facebook.com/crabyto">
   <img src="https://github.com/crabycode/crabycode/blob/main/facebook.png?raw=true" height="60" width="60">
 </a>
@@ -43,7 +44,7 @@
 <a href="https://www.codedex.io/@kyorgov">
   <img src="https://github.com/crabycode/crabycode/blob/main/codedex.png?raw=true" height="60" width="60">
 </a>
-
+</p>
 
 <h2> My favourite projects! 😊</h2>
 
