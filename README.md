@@ -22,13 +22,27 @@
 
 <h2> Social Media: </h2>
 
-[![Facebook](https://github.com/crabycode/crabycode/blob/main/facebook.png?raw=true)](https://www.facebook.com/crabyto)
-[![Spotify](https://github.com/crabycode/crabycode/blob/main/spotify.png?raw=true)](https://open.spotify.com/user/z2agvrmzdq1i4b9tfg34u8uwn)
-[![Instagram](https://github.com/crabycode/crabycode/blob/main/instagram.png?raw=true)](https://www.instagram.com/justcraby/)
-[![Twitter](https://github.com/crabycode/crabycode/blob/main/twitter.png?raw=true)](https://twitter.com/lilcraby)
-[![LinkedIn](https://github.com/crabycode/crabycode/blob/main/linkedin.png?raw=true)](https://www.linkedin.com/in/kaloyan-yorgov-385872188/)
-[![Gmail](https://github.com/crabycode/crabycode/blob/main/gmail.png?raw=true)](mailto:yorgovkaloyan702@gmail.com)
-[![Codedex](https://github.com/crabycode/crabycode/blob/main/codedex.png?raw=true)](https://www.codedex.io/@kyorgov)
+<a href="https://www.facebook.com/crabyto">
+  <img src="https://github.com/crabycode/crabycode/blob/main/facebook.png?raw=true" height="40" width="40">
+</a>
+<a href="https://open.spotify.com/user/z2agvrmzdq1i4b9tfg34u8uwn">
+  <img src="https://github.com/crabycode/crabycode/blob/main/spotify.png?raw=true" height="40" width="40">
+</a>
+<a href="https://www.instagram.com/justcraby/">
+  <img src="https://github.com/crabycode/crabycode/blob/main/instagram.png?raw=true" height="40" width="40">
+</a>
+<a href="https://twitter.com/lilcraby">
+  <img src="https://github.com/crabycode/crabycode/blob/main/twitter.png?raw=true" height="40" width="40">
+</a>
+<a href="https://www.linkedin.com/in/kaloyan-yorgov-385872188/">
+  <img src="https://github.com/crabycode/crabycode/blob/main/linkedin.png?raw=true" height="40" width="40">
+</a>
+<a href="mailto:yorgovkaloyan702@gmail.com">
+  <img src="https://github.com/crabycode/crabycode/blob/main/gmail.png?raw=true" height="40" width="40">
+</a>
+<a href="https://www.codedex.io/@kyorgov">
+  <img src="https://github.com/crabycode/crabycode/blob/main/codedex.png?raw=true" height="40" width="40">
+</a>
 
 
 <h2> My favourite projects! 😊</h2>
