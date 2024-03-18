@@ -64,7 +64,7 @@
   [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 </details>
 
-![Kaloayn's GitHub stats](https://github-readme-stats.vercel.app/api?username=crabycode&show_icons=true&theme=transparent)
+
 <h2> </h2>
 <img src="https://github.com/crabycode/crabycode/blob/main/Quote.jpg?raw=true">
 <h2 align="center"> #30NitesOfCode: </h2>
