@@ -70,7 +70,7 @@
 
 1. [DiscordMemeBot](https://github.com/crabycode/DiscordMemeBot)
 2. [QRcodeGenerator](https://github.com/crabycode/QRcode)
-3. [GifMaker](https://github.com/crabycode/Gifmaker))
+3. [GifMaker](https://github.com/crabycode/Gifmaker)
 <h2 align="center"> #30NitesOfCode: </h2>
 <div align = "center"> <p> #30NitesOfCode is a unique habit-building challenge inspired by #100DaysOfCode, Tamagotchi, and Duolingo streaks. Participants commit to 30 days of learning and building coding skills, accompanied by a virtual pet that evolves with their progress. The challenge offers accountability through Twitter, OPC, and Discord communities, where participants can share their progress and connect with others. To participate, individuals engage in coding-related activities daily, share their progress on Twitter or OPC, and record their posts in the #30NitesOfCode dashboard. Joining the challenge provides an opportunity to learn, build new skills, and make friends within the coding community. Taking part in it built me the same habbit that duolingo helped e build before with studying language, except this time it is a coding language. Go check it out at codedex.io! </p> <br> <br>
   Here is my little pet, Ares that I raised during the challenge! <br>
