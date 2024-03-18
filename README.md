@@ -47,6 +47,7 @@
 </a>
 </p>
 
+<br>
 <h2> My favourite projects! 😊</h2>
 
 <h2> #30NitesOfCode: </h2>
