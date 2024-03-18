@@ -9,6 +9,7 @@
 
 🌎 From Pleven, Bulgaria <br> <br>
 🎓 Technical University of Sofia, Bulgaria <br> <br>
+🖥️ Enthusiastic beginner in coding <br> <br>
 💼 Looking for a part time job <br> <br>
 😄 Pronouns: He/Him <br> <br>
 🫀 In a happy relationship <br> <br>
@@ -46,8 +47,8 @@
   <img src="https://github.com/crabycode/crabycode/blob/main/codedex.png?raw=true" height="100" width="100">
 </a>
 </p>
-
 <br>
+<h2> Tech skills </h2>
 <h2> My favourite projects! 😊</h2>
 
 <h2> #30NitesOfCode: </h2>
