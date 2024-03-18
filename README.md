@@ -66,11 +66,7 @@
 
 ![Kaloayn's GitHub stats](https://github-readme-stats.vercel.app/api?username=crabycode&show_icons=true&theme=transparent)
 <h2 align="center"> My favourite projects! 😊</h2>
-<p align="center"> There are more to come, more advanced and useful, but as a newbie, these are the first I created and am most proud of!</p>
-
-1. [DiscordMemeBot](https://github.com/crabycode/DiscordMemeBot)
-2. [QRcodeGenerator](https://github.com/crabycode/QRcode)
-3. [GifMaker](https://github.com/crabycode/Gifmaker)
+<img src="[https://github.com/crabycode/crabycode/blob/main/crabestan.png?raw=true](https://quotefancy.com/media/wallpaper/3840x2160/2000910-Joel-Spolsky-Quote-Good-software-like-wine-takes-time.jpg)">
 <h2 align="center"> #30NitesOfCode: </h2>
 <div align = "center"> <p> #30NitesOfCode is a unique habit-building challenge inspired by #100DaysOfCode, Tamagotchi, and Duolingo streaks. Participants commit to 30 days of learning and building coding skills, accompanied by a virtual pet that evolves with their progress. The challenge offers accountability through Twitter, OPC, and Discord communities, where participants can share their progress and connect with others. To participate, individuals engage in coding-related activities daily, share their progress on Twitter or OPC, and record their posts in the #30NitesOfCode dashboard. Joining the challenge provides an opportunity to learn, build new skills, and make friends within the coding community. Taking part in it built me the same habbit that duolingo helped e build before with studying language, except this time it is a coding language. Go check it out at codedex.io! </p> <br> <br>
   Here is my little pet, Ares that I raised during the challenge! <br>
