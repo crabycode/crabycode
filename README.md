@@ -51,6 +51,7 @@
 <h2>👨‍💻 Tech skills 👨‍💻</h2>
 <details>
   <summary>⚙️Tools and Software that I use</summary>
+  
   [![My Skills](https://skillicons.dev/icons?i=apple,azure)](https://skillicons.dev)
 </details>
 <h2> My favourite projects! 😊</h2>
