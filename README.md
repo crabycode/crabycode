@@ -24,25 +24,25 @@
 <h2 align="center"> Social Media: </h2>
 
 <p align="center">
-<a href="https://www.facebook.com/crabyto" style="text-decoration: none;">
+<a href="https://www.facebook.com/crabyto" style="text-decoration: none; border: none">
   <img src="https://github.com/crabycode/crabycode/blob/main/facebook.png?raw=true" height="80" width="80">
 </a>
-<a href="https://open.spotify.com/user/z2agvrmzdq1i4b9tfg34u8uwn" style="text-decoration: none;">
+<a href="https://open.spotify.com/user/z2agvrmzdq1i4b9tfg34u8uwn" style="text-decoration: none; border: none">
   <img src="https://github.com/crabycode/crabycode/blob/main/sptoify.png?raw=true" height="80" width="80">
 </a>
-<a href="https://www.instagram.com/justcraby/" style="text-decoration: none;">
+<a href="https://www.instagram.com/justcraby/" style="text-decoration: none; border: none">
   <img src="https://github.com/crabycode/crabycode/blob/main/instagram.png?raw=true" height="80" width="80">
 </a>
-<a href="https://twitter.com/lilcraby" style="text-decoration: none;">
+<a href="https://twitter.com/lilcraby" style="text-decoration: none; border: none">
   <img src="https://github.com/crabycode/crabycode/blob/main/twitter.png?raw=true" height="80" width="80">
 </a>
-<a href="https://www.linkedin.com/in/kaloyan-yorgov-385872188/" style="text-decoration: none;">
+<a href="https://www.linkedin.com/in/kaloyan-yorgov-385872188/" style="text-decoration: none; border: none">
   <img src="https://github.com/crabycode/crabycode/blob/main/Linkedin.png?raw=true" height="80" width="80">
 </a>
-<a href="mailto:yorgovkaloyan702@gmail.com" style="text-decoration: none;">
+<a href="mailto:yorgovkaloyan702@gmail.com" style="text-decoration: none; border: none">
   <img src="https://github.com/crabycode/crabycode/blob/main/gmail.png?raw=true" height="80" width="80">
 </a>
-<a href="https://www.codedex.io/@kyorgov" style="text-decoration: none;">
+<a href="https://www.codedex.io/@kyorgov" style="text-decoration: none; border: none">
   <img src="https://github.com/crabycode/crabycode/blob/main/codedex.png?raw=true" height="80" width="80">
 </a>
 </p>
