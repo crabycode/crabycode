@@ -20,6 +20,7 @@
 <br clear="left"/>
 <br> [![Image of https://github.com/crabycode/viewscounter](https://github.com/crabycode/viewscounter/blob/master/svg/profile/badge.svg)](https://github.com/crabycode/viewscounter) 
 
+<br>
 <h2 align="center"> Social Media: </h2>
 
 <p align="center">
