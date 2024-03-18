@@ -22,6 +22,11 @@
 
 <h2> Social Media: </h2>
 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/justcraby)](https://instagram.com/justcraby)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/crabyto)](https://www.facebook.com/crabyto)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kaloyan-yorgov-385872188/)](https://www.linkedin.com/in/kaloyan-yorgov-385872188/)
+
+
 <h2> My favourite projects! 😊</h2>
 
 <h2> #30NitesOfCode: </h2>
