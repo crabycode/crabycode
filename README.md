@@ -49,6 +49,7 @@
 </p>
 <br>
 <h2 align = "center">👨‍💻 Tech skills 👨‍💻</h2>
+<img align="right" width="100" src="(https://github.com/crabycode/crabycode/blob/main/craby.png?raw=true)" alt="Alt text for image"/>
 <details>
   <summary>⚙️Tools and Software that I use</summary>
   
