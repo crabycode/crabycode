@@ -66,7 +66,7 @@
 
 ![Kaloayn's GitHub stats](https://github-readme-stats.vercel.app/api?username=crabycode&show_icons=true&theme=transparent)
 <h2 align="center"> My favourite projects! 😊</h2>
-<p align="center"> These are my favourite projects. There are more to come, more advanced and useful, but as a newbie, these are the first I created and am most proud of!</p>
+<p align="center"> There are more to come, more advanced and useful, but as a newbie, these are the first I created and am most proud of!</p>
 <h2 align="center"> #30NitesOfCode: </h2>
 
   [Check out my progress!](https://www.codedex.io/@kyorgov/30-nites-of-code)  
