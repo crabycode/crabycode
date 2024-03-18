@@ -49,6 +49,7 @@
 </p>
 <br>
 <h2>👨‍💻 Tech skills 👨‍💻</h2>
+<p align = "right">
 <details>
   <summary>⚙️Tools and Software that I use</summary>
   
@@ -61,6 +62,7 @@
   [![My Skills](https://skillicons.dev/icons?i=py,c,cs)](https://skillicons.dev) <br>
   [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 </details>
+</p>
 
 ![Kaloayn's GitHub stats](https://github-readme-stats.vercel.app/api?username=crabycode&show_icons=true&theme=transparent)
 <h2> My favourite projects! 😊</h2>
