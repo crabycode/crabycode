@@ -22,9 +22,13 @@
 
 <h2> Social Media: </h2>
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/justcraby)](https://instagram.com/justcraby)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/crabyto)](https://www.facebook.com/crabyto)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kaloyan-yorgov-385872188/)](https://www.linkedin.com/in/kaloyan-yorgov-385872188/)
+[![Facebook](https://github.com/crabycode/crabycode/blob/main/facebook.png?raw=true)](https://www.facebook.com/crabyto)
+[![Spotify](https://github.com/crabycode/crabycode/blob/main/spotify.png?raw=true)](https://open.spotify.com/user/z2agvrmzdq1i4b9tfg34u8uwn)
+[![Instagram](https://github.com/crabycode/crabycode/blob/main/instagram.png?raw=true)](https://www.instagram.com/justcraby/)
+[![Twitter](https://github.com/crabycode/crabycode/blob/main/twitter.png?raw=true)](https://twitter.com/lilcraby)
+[![LinkedIn](https://github.com/crabycode/crabycode/blob/main/linkedin.png?raw=true)](https://www.linkedin.com/in/kaloyan-yorgov-385872188/)
+[![Gmail](https://github.com/crabycode/crabycode/blob/main/gmail.png?raw=true)](mailto:yorgovkaloyan702@gmail.com)
+[![Codedex](https://github.com/crabycode/crabycode/blob/main/codedex.png?raw=true)](https://www.codedex.io/@kyorgov)
 
 
 <h2> My favourite projects! 😊</h2>
