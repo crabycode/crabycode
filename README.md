@@ -3,7 +3,7 @@
 <h1 align="center"><i>Greetings! Kaloyan here</i>🙋‍♂️</h2>
 <br>
 
-<h2> Who is Kaloyan Yorgov? </h2>
+<h2> Who is Kaloyan Yorgov? 🤔</h2>
 
 <img align="right" src="https://avatars.githubusercontent.com/u/155481840?v=4" height = "500">
 
@@ -21,7 +21,7 @@
 <br> [![Image of https://github.com/crabycode/viewscounter](https://github.com/crabycode/viewscounter/blob/master/svg/profile/badge.svg)](https://github.com/crabycode/viewscounter) 
 
 <br>
-<h2 align="center"> Social Media: </h2>
+<h2 align="center">🌐 Social Media: 🌐</h2>
 
 <p align="center">
 <a href="https://www.facebook.com/crabyto">
