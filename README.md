@@ -25,25 +25,25 @@
 
 <p align="center">
 <a href="https://www.facebook.com/crabyto">
-  <img src="https://github.com/crabycode/crabycode/blob/main/facebook.png?raw=true" height="80" width="80">
+  <img src="https://github.com/crabycode/crabycode/blob/main/facebook.png?raw=true" height="100" width="100">
 </a>
 <a href="https://open.spotify.com/user/z2agvrmzdq1i4b9tfg34u8uwn">
-  <img src="https://github.com/crabycode/crabycode/blob/main/sptoify.png?raw=true" height="80" width="80">
+  <img src="https://github.com/crabycode/crabycode/blob/main/sptoify.png?raw=true" height="100" width="100">
 </a>
 <a href="https://www.instagram.com/justcraby/">
-  <img src="https://github.com/crabycode/crabycode/blob/main/instagram.png?raw=true" height="80" width="80">
+  <img src="https://github.com/crabycode/crabycode/blob/main/instagram.png?raw=true" height="100" width="100">
 </a>
 <a href="https://twitter.com/lilcraby">
-  <img src="https://github.com/crabycode/crabycode/blob/main/twitter.png?raw=true" height="80" width="80">
+  <img src="https://github.com/crabycode/crabycode/blob/main/twitter.png?raw=true" height="100" width="100">
 </a>
 <a href="https://www.linkedin.com/in/kaloyan-yorgov-385872188/">
-  <img src="https://github.com/crabycode/crabycode/blob/main/Linkedin.png?raw=true" height="80" width="80">
+  <img src="https://github.com/crabycode/crabycode/blob/main/Linkedin.png?raw=true" height="100" width="100">
 </a>
 <a href="mailto:yorgovkaloyan702@gmail.com">
-  <img src="https://github.com/crabycode/crabycode/blob/main/gmail.png?raw=true" height="80" width="80">
+  <img src="https://github.com/crabycode/crabycode/blob/main/gmail.png?raw=true" height="100" width="100">
 </a>
 <a href="https://www.codedex.io/@kyorgov">
-  <img src="https://github.com/crabycode/crabycode/blob/main/codedex.png?raw=true" height="80" width="80">
+  <img src="https://github.com/crabycode/crabycode/blob/main/codedex.png?raw=true" height="100" width="100">
 </a>
 </p>
 
