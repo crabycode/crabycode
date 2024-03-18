@@ -48,8 +48,7 @@
 </a>
 </p>
 <br>
-<h2>👨‍💻 Tech skills 👨‍💻</h2>
-<div align ="right">
+<h2 align = "center">👨‍💻 Tech skills 👨‍💻</h2>
 <details>
   <summary>⚙️Tools and Software that I use</summary>
   
@@ -64,7 +63,6 @@
 </details>
 
 ![Kaloayn's GitHub stats](https://github-readme-stats.vercel.app/api?username=crabycode&show_icons=true&theme=transparent)
-</div>
 <h2> My favourite projects! 😊</h2>
 <h2> #30NitesOfCode: </h2>
   [Check out my progress!](https://www.codedex.io/@kyorgov/30-nites-of-code)  
