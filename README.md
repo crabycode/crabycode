@@ -26,7 +26,7 @@
 <p align="center"> If I sound like an intriguing person and you'd like to learn more about me, consider following me on social media!</p>
 <p align="center">
 <a href="https://www.facebook.com/crabyto">
-  <img src="https://github.com/crabycode/crabycode/blob/main/facebook.png?raw=true" height="100" width="100">
+  <img src="https://github.com/crabycode/crabycode/blob/main/facebook.png?raw=true" height="90" width="90">
 </a>
 <a href="https://open.spotify.com/user/z2agvrmzdq1i4b9tfg34u8uwn">
   <img src="https://github.com/crabycode/crabycode/blob/main/sptoify.png?raw=true" height="100" width="100">
