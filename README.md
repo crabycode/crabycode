@@ -79,6 +79,8 @@
 
 <details>
   <summary><i>secret</i></summary>
+  <div align="center">
   I WANT IT SO MUCH!!! <br>
-  <img src="https://github.com/crabycode/crabycode/blob/main/octocat.png?raw=true" align="center">
+  <img src="https://github.com/crabycode/crabycode/blob/main/octocat.png?raw=true">
+  </div>
 </details>
