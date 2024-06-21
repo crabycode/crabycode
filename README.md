@@ -19,7 +19,6 @@
 ⚡ World of Warcraft retail enjoyer! <br> <br>
 📫 Email: <i>[yorgovkaloyan702@gmail.com](mailto:yorgovkaloyan702@gmail.com)</i>
 <br clear="left"/>
-<br> [![Image of https://github.com/crabycode/viewscounter](https://github.com/crabycode/viewscounter/blob/master/svg/profile/badge.svg)](https://github.com/crabycode/viewscounter) 
 
 <br>
 <h2 align="center">🌐 Social Media: 🌐</h2>
