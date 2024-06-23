@@ -76,11 +76,3 @@
   [Check out my progress!](https://www.codedex.io/@kyorgov/30-nites-of-code)  
   ![@kyorgov #30NitesOfCode](https://www.codedex.io/api/petStatus?user=kyorgov)
 </div>
-
-<details>
-  <summary><i>secret</i></summary>
-  <div align="center">
-  I WANT IT SO MUCH!!! <br>
-  <img src="https://github.com/crabycode/crabycode/blob/main/octocat.png?raw=true">
-  </div>
-</details>
