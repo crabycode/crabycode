@@ -66,7 +66,7 @@
 
 ![Kaloayn's GitHub stats](https://github-readme-stats.vercel.app/api?username=crabycode&show_icons=true&theme=transparent)
 <h2> </h2>
-<img src="https://github.com/crabycode/crabycode/blob/main/Quote.jpg?raw=true">
+<img src="https://github.com/crabycode/crabycode/blob/main/security_quote.jpg?raw=true">
 <h2 align="center"> #30NitesOfCode: </h2>
 <div align = "center"> <p> #30NitesOfCode is a unique habit-building challenge inspired by #100DaysOfCode, Tamagotchi, and Duolingo streaks. Participants commit to 30 days of learning and building coding skills, accompanied by a virtual pet that evolves with their progress. The challenge offers accountability through Twitter and OPC, where participants can share their progress and connect with others. To participate, individuals engage in coding-related activities daily, share their progress on Twitter or OPC, and record their posts in the #30NitesOfCode dashboard. Joining the challenge provides an opportunity to learn, build new skills, and make friends within the coding community. Taking part in it built me the same habbit that duolingo helped e build before with studying language, except this time it is a coding language. Go check it out at 
   
