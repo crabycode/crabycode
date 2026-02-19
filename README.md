@@ -51,7 +51,7 @@
 
 <h2>👨‍💻 Tech skills 👨‍💻</h2>
 <img src="https://github.com/crabycode/crabycode/blob/main/crabestan.png?raw=true" align="right" width = 300 alt="Craby coding"/>
-<details>
+<details open>
   <summary>⚙️Tools and Software that I use</summary>
   
   [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,unity,linux)](https://skillicons.dev) <br>
