@@ -60,8 +60,8 @@
 <details>
   <summary>💻Programming languages</summary>
   
-  [![My Skills](https://skillicons.dev/icons?i=py,c,cs)](https://skillicons.dev) <br>
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,c,cs,java)](https://skillicons.dev) <br>
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,sql)](https://skillicons.dev)
 </details>
 
 <h2> </h2>
