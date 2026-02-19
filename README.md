@@ -9,7 +9,7 @@
 
 🌎 From Pleven, Bulgaria <br> <br>
 🎓 Technical University of Sofia, Bulgaria <br> <br>
-🖥️ Enthusiastic beginner in coding <br> <br>
+🖥️ Enthusiastic about coding and cybersecurity <br> <br>
 💼 Looking for a job <br> <br>
 😄 Pronouns: He/Him <br> <br>
 🫀 In a happy relationship <br> <br>
