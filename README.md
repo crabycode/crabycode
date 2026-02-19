@@ -54,8 +54,8 @@
 <details>
   <summary>⚙️Tools and Software that I use</summary>
   
-  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,unity)](https://skillicons.dev) <br>
-  [![My Skills](https://skillicons.dev/icons?i=github,powershell,sublime)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,unity,linux)](https://skillicons.dev) <br>
+  [![My Skills](https://skillicons.dev/icons?i=github,powershell,sublime,pycharm)](https://skillicons.dev)
 </details>
 <details>
   <summary>💻Programming languages</summary>
