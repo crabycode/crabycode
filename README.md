@@ -57,7 +57,7 @@
   [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,unity,linux)](https://skillicons.dev) <br>
   [![My Skills](https://skillicons.dev/icons?i=github,powershell,sublime,pycharm)](https://skillicons.dev)
 </details>
-<details>
+<details open>
   <summary>💻Programming languages</summary>
   
   [![My Skills](https://skillicons.dev/icons?i=py,c,cs,java)](https://skillicons.dev) <br>
